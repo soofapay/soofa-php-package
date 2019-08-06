@@ -1,0 +1,17 @@
+{
+    "name": "soofa/soofa",
+    "description": "SoofaPay PHP package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Soofa Pay",
+            "email": "info@soofapay.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"soofa\\Soofa\\": "src/"}
+    },
+    "require": {}
+}
